@@ -119,7 +119,7 @@ Y = X*4.5 + np.random.randn(50,1) * 5
 
 You can view the complete implementation and outputs on Kaggle:
 
-👉 [View Notebook on Kaggle](https://www.kaggle.com/code/deveshjangid01/linear-regression)
+👉 [View Notebook on Kaggle(https://www.kaggle.com/code/deveshjangid01/linear-regression)
 ---
 
 ## 📌 Future Improvements
